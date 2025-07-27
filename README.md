@@ -106,7 +106,9 @@ Submit a pull request 🚀
 📫 Contact
 📧 Email: sakshi10044@gmail.com
 
-🔗 GitHub: @SakshiBittu
+🔗 LinkedIn: Sakshi Yadav
+
+🚀 GitHub: Sakshi Bittu
 
 ⭐ Support
 If you found this project useful or inspiring, please ⭐ star the repository and share it with others!
