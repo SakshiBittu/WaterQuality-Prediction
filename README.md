@@ -1,5 +1,7 @@
 💧 Water Quality Prediction
+
 📌 Overview
+
 The Water Quality Prediction project is a machine learning-based web application that predicts whether water is safe for drinking (potable) based on its chemical and physical properties.
 It uses Python (Flask), Scikit-learn, and a basic HTML interface to create an interactive prediction system.
 
@@ -104,7 +106,7 @@ Submit a pull request 🚀
 📫 Contact
 📧 Email: sakshi10044@gmail.com
 
-🔗 GitHub: @sakshibittu1004
+🔗 GitHub: @SakshiBittu
 
 ⭐ Support
 If you found this project useful or inspiring, please ⭐ star the repository and share it with others!
